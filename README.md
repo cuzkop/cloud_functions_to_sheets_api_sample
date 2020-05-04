@@ -17,5 +17,5 @@
 7. Open SpreadSheets, click `SHARE` button, paste copied Email and submit.
 
 8. Copy SPREADSHEET_KEY.
-   1. https://docs.google.com/spreadsheets/d/{THIS IS YOUR SPREADSHEET_KEY}/edit#gid=0 
+   1. https://docs.google.com/spreadsheets/d/{THIS-IS-YOUR-SPREADSHEET-KEY}/edit#gid=0 
    2. Paste SPREADSHEET_KEY of main.py
